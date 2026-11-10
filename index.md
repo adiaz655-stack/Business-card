@@ -3,11 +3,11 @@
 **Information Design Student**
 
 -----------------------------------------------
-|   Feild  | Details  |
-|  :--  | :-- |
-| Name | Kendra Diaz |
-| Role | Information Design Student |
-| Interest | Visual communication |
+| Feild    | Details                    |
+| :-- | :-- |
+| Name     | Kendra Diaz                |
+| Role     | Information Design Student |
+| Interest | Visual communication       |
 
 ---
 
