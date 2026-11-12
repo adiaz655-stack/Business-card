@@ -1,16 +1,17 @@
-# Kendra Diaz Mount Royal University Business Card
+## Kendra Diaz Mount Royal University Business Card
 
 **Information Design Student**
 
 -----------------------------------------------
-| Feild    | Details                    |
-| :-- | :-- |
-| Name     | Kendra Diaz                |
-| Role     | Information Design Student |
-| Interest | Visual communication       |
+
+|**Field**|**Details**                    
+| :--  | :-- |
+| Name | Kendra Diaz                
+| Role | Information Design Student 
+| Interest | Visual communication       
 
 ---
 
-> I love designing, let me show you my designs please !
+> Emerging Information Designer
 
 *Designing is supa cool*
